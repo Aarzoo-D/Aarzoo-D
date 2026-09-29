@@ -1,6 +1,18 @@
-👋 Hi, I'm Aarzoo Dhakad, a passionate Computer Science student at AITR.
-I'm diving deep into code to create innovative solutions and constantly learning new tech.
- 🔭 I’m currently working on bulding concept of full stack development.
- 🌱 I’m currently learning java language.
- 💬 Ask me about basic concept of c++ and java.
-Let's collaborate!
+Hi 👋, I'm Aarzoo Dadhore
+
+💻 Java Developer | Spring Boot | SQL
+🎓 Computer Science Engineering Student
+🚀 Building real-world projects
+🌱 Currently improving DSA & Backend Development
+🎯 Aspiring Software Engineer
+
+Tech Stack
+Java • Spring Boot • MySQL • C++ • DSA • HTML • CSS • JavaScript
+
+Featured Projects
+🔹 AI-Powered Software Requirement Analyzer
+🔹 Event Aggregator
+🔹 BFHL REST API
+🔹 CodeAlpha Stock Trading Platform
+
+Let's Connect 🤝
